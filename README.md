@@ -39,7 +39,7 @@ python3 calc_odds.py
 ### Executing program
 
 * Make request to http://localhost:58585/calculate_odds
-* The body must include 2 arrays one named **prevYearApplication** and the other **prevYearSuccess**.
+* The body of the request must include 2 arrays. One named **prevYearApplication** and the other **prevYearSuccess**.
 
 Example of request body:
 ```
